@@ -60,7 +60,7 @@ A dynamic multi-level category select box is a type of select box that allows us
 
 ## Requirements
 
--   Laravel 10
+-   Laravel 10.x
 -   php >= 8.1
 
 ## Installation
