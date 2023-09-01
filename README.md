@@ -71,10 +71,10 @@ A dynamic multi-level category select box is a type of select box that allows us
 
 2. Install the dependencies:
 
-> composer install
+> composer install <br>
 > npm install
 
-3. Create a database and configure the database connection in .env file.
+3. Rename .env.example to .env and configure the database connection.
 
 4. Run the migrations:
 
