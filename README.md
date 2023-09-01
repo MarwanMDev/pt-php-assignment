@@ -72,6 +72,7 @@ A dynamic multi-level category select box is a type of select box that allows us
 2. Install the dependencies:
 
 > composer install
+> npm install
 
 3. Create a database and configure the database connection in .env file.
 
@@ -82,6 +83,18 @@ A dynamic multi-level category select box is a type of select box that allows us
 5. Seed the database with some data:
 
 > php artisan db:seed
+
+6. Generate your application encryption key using
+
+> php artisan key:generate
+
+7. Run Build
+
+> npm run build
+
+8. Run the application
+
+> php artisan serve
 
 ## Usage
 
