@@ -9,38 +9,38 @@ A dynamic multi-level category select box is a type of select box that allows us
 ## Example
 
 -   Category A
--   Sub A1
-    -   Sub Sub A1-1
-        -   Sub Sub Sub A1-1-1
-    -   Sub Sub A1-2
-        -   Sub Sub Sub A1-2-1
--   Sub A2
-    -   Sub Sub A2-1
-        -   Sub Sub Sub A2-1-1
-    -   Sub Sub A2-2
-        -   Sub Sub Sub A2-2-1
+    -   Sub A1
+        -   Sub Sub A1-1
+            -   Sub Sub Sub A1-1-1
+        -   Sub Sub A1-2
+            -   Sub Sub Sub A1-2-1
+    -   Sub A2
+        -   Sub Sub A2-1
+            -   Sub Sub Sub A2-1-1
+        -   Sub Sub A2-2
+            -   Sub Sub Sub A2-2-1
 -   Category B
--   Sub B1
-    -   Sub Sub B1-1
-        -   Sub Sub Sub B1-1-1
-    -   Sub Sub B1-2
-        -   Sub Sub Sub B1-2-1
--   Sub B2
-    -   Sub Sub B2-1
-        -   Sub Sub Sub B2-1-1
-    -   Sub Sub B2-2
-        -   Sub Sub Sub B2-2-1
+    -   Sub B1
+        -   Sub Sub B1-1
+            -   Sub Sub Sub B1-1-1
+        -   Sub Sub B1-2
+            -   Sub Sub Sub B1-2-1
+    -   Sub B2
+        -   Sub Sub B2-1
+            -   Sub Sub Sub B2-1-1
+        -   Sub Sub B2-2
+            -   Sub Sub Sub B2-2-1
 -   Category C
--   Sub C1
-    -   Sub Sub C1-1
-        -   Sub Sub Sub C1-1-1
-    -   Sub Sub C1-2
-        -   Sub Sub Sub C1-2-1
--   Sub C2
-    -   Sub Sub C2-1
-        -   Sub Sub Sub C2-1-1
-    -   Sub Sub C2-2
-        -   Sub Sub Sub C2-2-1
+    -   Sub C1
+        -   Sub Sub C1-1
+            -   Sub Sub Sub C1-1-1
+        -   Sub Sub C1-2
+            -   Sub Sub Sub C1-2-1
+    -   Sub C2
+        -   Sub Sub C2-1
+            -   Sub Sub Sub C2-1-1
+        -   Sub Sub C2-2
+            -   Sub Sub Sub C2-2-1
 
 ## Database Table Design
 
@@ -61,7 +61,7 @@ A dynamic multi-level category select box is a type of select box that allows us
 ## Requirements
 
 -   Laravel 10
--   php 8.0
+-   php >= 8.1
 
 ## Installation
 
