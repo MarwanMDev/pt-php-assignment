@@ -84,15 +84,15 @@ A dynamic multi-level category select box is a type of select box that allows us
 
 > php artisan db:seed
 
-6. Generate your application encryption key using
+6. Generate your application encryption key using.
 
 > php artisan key:generate
 
-7. Run Build
+7. Run Build.
 
 > npm run build
 
-8. Run the application
+8. Run the application.
 
 > php artisan serve
 
